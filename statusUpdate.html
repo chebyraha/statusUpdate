@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Update</title>
+</head>
+<body>
+    <h2>Обновление товаров menuindex и маркеров new/popular</h2>
+    <form id="updateByIdForm" method="post">
+        <label for="productId">ID товара:</label>
+        <input type="text" id="productId" name="productId">
+        <button type="submit">Обновление по ID</button>
+    </form>
+    <br>
+    <select id="vendorId">
+      <optgroup label="Популярные">
+        <option value="1">TYR</option>
+        <option value="2">Arena</option>
+        <option value="4">Speedo</option>
+        <option value="8">TURBO</option>
+        <option value="11">HUUB</option>
+      </optgroup>
+      <optgroup label="Другие бренды">
+        <option value="3">Finis</option>
+        <option value="5">Diapolo</option>
+        <option value="6">MP</option>
+        <option value="7">AquaSphere</option>
+        <option value="9">Strechcordz</option>
+        <option value="10">Phelps</option>
+        <option value="12">Aqualung</option>
+        <option value="13">SwimStore</option>
+        <option value="14">Fruit</option>
+        <option value="15">Lane Gainer</option>
+        <option value="16">Mizuno</option>
+        <option value="17">Swell</option>
+        <option value="18">Cressi</option>
+        <option value="19">SHYM</option>
+      </optgroup>
+    </select>
+    
+    <button type="button" onclick="updateProductsByVendor()">Обновить по бренду</button>
+    
+    <br><br>
+    <button id="updateAllBtn">Обновление всех товаров</button>
+    <br><br>
+    
+    <button type="submit" name="clearPopular" onclick="return confirm('Вы уверены, что хотите очистить статус popular для всех товаров?')">Очистить статус popular для всех товаров</button>
+    <br><br>
+    <button type="submit" name="clearNew" onclick="return confirm('Вы уверены, что хотите очистить статус new для всех товаров?')">Очистить статус new для всех товаров</button>
+    <br>
+    
+    <div id="updateResult"></div>
+
+    <script src="./js/updateStatus.js"></script>
+</body>
+</html>

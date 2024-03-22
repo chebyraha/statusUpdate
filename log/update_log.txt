@@ -1,0 +1,599 @@
+[2024-03-19 14:11:47] Product ID=5221 updated.
+[2024-03-19 14:29:30] Menuindex of product ID=4838 updated to -99999.
+[2024-03-19 14:29:30] Status of product ID=4838 updated to new = 0, popular = 1.
+[2024-03-20 11:33:48] Menuindex of product ID=4852 updated to -99999.
+[2024-03-20 11:33:48] Status of product ID=4852 updated to new = 0, popular = 1.
+[2024-03-20 11:34:54] Menuindex of product ID=5776 updated to -99999.
+[2024-03-20 11:34:54] Status of product ID=5776 updated to new = 0, popular = 1.
+[2024-03-20 11:36:46] Menuindex of product ID=5776 updated to -9999999.
+[2024-03-20 11:36:46] Status of product ID=5776 updated to new = 0, popular = 1.
+[2024-03-20 11:44:20] Menuindex of product ID=5801 updated to -9999999.
+[2024-03-20 11:44:27] Menuindex of product ID=5801 updated to -99999.
+[2024-03-20 11:45:24] Menuindex of product ID=5796 updated to -99999.
+[2024-03-20 16:33:54] Menuindex of product ID=5528 updated to -99999.
+[2024-03-20 16:33:54] Status of product ID=5528 updated to new = 1, popular = 0.
+[2024-03-20 16:34:05] Menuindex of product ID=5529 updated to -99999.
+[2024-03-20 16:34:05] Status of product ID=5529 updated to new = 1, popular = 0.
+[2024-03-20 16:34:13] Menuindex of product ID=5528 updated to -99999.
+[2024-03-20 16:34:13] Status of product ID=5528 updated to new = 1, popular = 0.
+[2024-03-20 16:34:19] Menuindex of product ID=5527 updated to -99999.
+[2024-03-20 16:34:19] Status of product ID=5527 updated to new = 1, popular = 0.
+[2024-03-20 16:34:26] Menuindex of product ID=5526 updated to -99999.
+[2024-03-20 16:34:26] Status of product ID=5526 updated to new = 1, popular = 0.
+[2024-03-20 16:34:34] Menuindex of product ID=5524 updated to -99999.
+[2024-03-20 16:34:34] Status of product ID=5524 updated to new = 1, popular = 0.
+[2024-03-20 16:34:57] Menuindex of product ID=541 updated to -99999.
+[2024-03-20 16:34:57] Status of product ID=541 updated to new = 0, popular = 1.
+[2024-03-20 16:35:14] Menuindex of product ID=1118 updated to -99999.
+[2024-03-20 16:35:14] Status of product ID=1118 updated to new = 1, popular = 0.
+[2024-03-20 16:35:44] Menuindex of product ID=5702 updated to -99999.
+[2024-03-20 16:35:44] Status of product ID=5702 updated to new = 0, popular = 1.
+[2024-03-20 16:37:08] Menuindex of product ID=5331 updated to -99999.
+[2024-03-20 16:37:08] Status of product ID=5331 updated to new = 0, popular = 1.
+[2024-03-20 16:37:16] Menuindex of product ID=5333 updated to -99999.
+[2024-03-20 16:37:16] Status of product ID=5333 updated to new = 0, popular = 1.
+[2024-03-20 16:37:24] Menuindex of product ID=5156 updated to -99999.
+[2024-03-20 16:37:24] Status of product ID=5156 updated to new = 0, popular = 1.
+[2024-03-20 16:37:31] Menuindex of product ID=4686 updated to -99999.
+[2024-03-20 16:37:31] Status of product ID=4686 updated to new = 0, popular = 1.
+[2024-03-20 16:37:39] Menuindex of product ID=2438 updated to -99999.
+[2024-03-20 16:37:39] Status of product ID=2438 updated to new = 0, popular = 1.
+[2024-03-20 16:37:56] Menuindex of product ID=1600 updated to -99999.
+[2024-03-20 16:37:56] Status of product ID=1600 updated to new = 0, popular = 1.
+[2024-03-20 16:38:09] Menuindex of product ID=2454 updated to -99999.
+[2024-03-20 16:38:09] Status of product ID=2454 updated to new = 0, popular = 1.
+[2024-03-20 16:38:25] Menuindex of product ID=4796 updated to -99999.
+[2024-03-20 16:38:25] Status of product ID=4796 updated to new = 0, popular = 1.
+[2024-03-20 16:38:38] Menuindex of product ID=4794 updated to -99999.
+[2024-03-20 16:38:38] Status of product ID=4794 updated to new = 0, popular = 1.
+[2024-03-20 16:38:45] Menuindex of product ID=4791 updated to -99999.
+[2024-03-20 16:38:45] Status of product ID=4791 updated to new = 0, popular = 1.
+[2024-03-20 16:38:54] Menuindex of product ID=4712 updated to -99999.
+[2024-03-20 16:38:54] Status of product ID=4712 updated to new = 0, popular = 1.
+[2024-03-20 16:39:01] Menuindex of product ID=4798 updated to -99999.
+[2024-03-20 16:39:01] Status of product ID=4798 updated to new = 0, popular = 1.
+[2024-03-20 16:39:11] Menuindex of product ID=4826 updated to -99999.
+[2024-03-20 16:39:11] Status of product ID=4826 updated to new = 0, popular = 1.
+[2024-03-20 16:39:23] Menuindex of product ID=4831 updated to -99999.
+[2024-03-20 16:39:23] Status of product ID=4831 updated to new = 0, popular = 1.
+[2024-03-20 16:39:31] Menuindex of product ID=4841 updated to -99999.
+[2024-03-20 16:39:31] Status of product ID=4841 updated to new = 0, popular = 1.
+[2024-03-20 16:39:41] Menuindex of product ID=4844 updated to -99999.
+[2024-03-20 16:39:41] Status of product ID=4844 updated to new = 0, popular = 1.
+[2024-03-20 16:39:49] Menuindex of product ID=4850 updated to -99999.
+[2024-03-20 16:39:49] Status of product ID=4850 updated to new = 0, popular = 1.
+[2024-03-20 16:40:00] Menuindex of product ID=4851 updated to -99999.
+[2024-03-20 16:40:00] Status of product ID=4851 updated to new = 0, popular = 1.
+[2024-03-20 16:40:09] Menuindex of product ID=4853 updated to -99999.
+[2024-03-20 16:40:09] Status of product ID=4853 updated to new = 0, popular = 1.
+[2024-03-20 16:40:16] Menuindex of product ID=4860 updated to -99999.
+[2024-03-20 16:40:16] Status of product ID=4860 updated to new = 0, popular = 1.
+[2024-03-20 16:40:23] Menuindex of product ID=4859 updated to -99999.
+[2024-03-20 16:40:23] Status of product ID=4859 updated to new = 0, popular = 1.
+[2024-03-20 16:40:30] Menuindex of product ID=4857 updated to -99999.
+[2024-03-20 16:40:30] Status of product ID=4857 updated to new = 0, popular = 1.
+[2024-03-20 16:40:36] Menuindex of product ID=4858 updated to -99999.
+[2024-03-20 16:40:36] Status of product ID=4858 updated to new = 0, popular = 1.
+[2024-03-20 16:40:59] Menuindex of product ID=5157 updated to -99999.
+[2024-03-20 16:40:59] Status of product ID=5157 updated to new = 0, popular = 1.
+[2024-03-20 16:41:07] Menuindex of product ID=5110 updated to -99999.
+[2024-03-20 16:41:07] Status of product ID=5110 updated to new = 0, popular = 1.
+[2024-03-20 16:41:16] Menuindex of product ID=5111 updated to -99999.
+[2024-03-20 16:41:16] Status of product ID=5111 updated to new = 0, popular = 1.
+[2024-03-20 16:41:26] Menuindex of product ID=4858 updated to -9999999.
+[2024-03-20 16:41:26] Status of product ID=4858 updated to new = 0, popular = 1.
+[2024-03-20 16:41:30] Menuindex of product ID=4858 updated to -9999999.
+[2024-03-20 16:41:30] Status of product ID=4858 updated to new = 0, popular = 1.
+[2024-03-21 10:30:22] Menuindex of product ID=2651 updated to -99999.
+[2024-03-21 10:30:22] Status of product ID=2651 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1723 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1724 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1726 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1727 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1732 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1733 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1734 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1738 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1739 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1740 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1741 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1742 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1743 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1745 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1746 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1747 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1748 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1749 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1750 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=1751 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=2342 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2335 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2336 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2337 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2354 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2340 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2867 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=2358 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2359 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2360 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2361 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2362 updated to new = 1, popular = 0.
+[2024-03-21 10:39:15] Status of product ID=2863 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=2866 updated to new = 0, popular = 1.
+[2024-03-21 10:39:15] Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1723 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1724 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1726 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1727 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1732 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1733 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1734 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1738 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1739 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1740 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1741 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1742 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1743 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1745 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1746 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1747 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1748 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1749 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1750 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=1751 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=2342 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2335 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2336 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2337 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2354 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2340 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2867 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=2358 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2359 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2360 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2361 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2362 updated to new = 1, popular = 0.
+[2024-03-21 11:00:48] Status of product ID=2863 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=2866 updated to new = 0, popular = 1.
+[2024-03-21 11:00:48] Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1723 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1724 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1726 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1727 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1732 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1733 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1734 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1738 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1739 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1740 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1741 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1742 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1743 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1745 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1746 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1747 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1748 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1749 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1750 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=1751 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=2342 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2335 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=2336 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2337 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2354 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2340 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2867 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=2358 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2359 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2360 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2361 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2362 updated to new = 1, popular = 0.
+[2024-03-21 11:25:24] Status of product ID=2863 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=2866 updated to new = 0, popular = 1.
+[2024-03-21 11:25:24] Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1723 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1724 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1726 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1727 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1732 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1733 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1734 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1738 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1739 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1740 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1741 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1742 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1743 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1745 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1746 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1747 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1748 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1749 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1750 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=1751 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=2342 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2335 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=2336 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2337 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2354 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2340 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2867 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=2358 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2359 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2360 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2361 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2362 updated to new = 1, popular = 0.
+[2024-03-21 11:30:12] Status of product ID=2863 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=2866 updated to new = 0, popular = 1.
+[2024-03-21 11:30:12] Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1723 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1724 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1726 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1727 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1732 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1733 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1734 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1738 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1739 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1740 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1741 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1742 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1743 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1745 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1746 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1747 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1748 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1749 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1750 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=1751 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2342 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2335 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2336 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2337 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2354 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2340 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2867 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2358 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2359 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2360 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2361 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2362 updated to new = 1, popular = 0.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2863 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=2866 updated to new = 0, popular = 1.
+[2024-03-21 11:35:49] updateProductsByVendor – Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-21 11:46:02] Menuindex of product ID=2353 updated to -99999.
+[2024-03-21 11:46:02] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-22 10:29:54] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 10:29:54] Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-22 10:31:11] Createdon: 1619595673
+[2024-03-22 10:31:11] Date two months ago: 2024-01-22 10:31:11
+[2024-03-22 10:31:11] New: 
+[2024-03-22 10:31:11] Popular: 
+[2024-03-22 10:31:11] Menuindex of product ID=2353 updated to -99999.
+[2024-03-22 10:31:11] Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-22 10:39:29] Menuindex of product ID=2353 updated to -99999.
+[2024-03-22 10:39:29] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-22 10:42:01] Menuindex of product ID=2353 updated to -99999.
+[2024-03-22 10:42:01] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-22 11:07:22] Menuindex of product ID=2353 updated to -99999.
+[2024-03-22 11:07:22] updateProductById – Status of product ID=2353 updated to new = 0, popular = 1.
+[2024-03-22 11:09:00] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 11:09:00] updateProductById – Status of product ID=2353 updated to new = 0, popular = 1.
+[2024-03-22 11:09:06] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 11:09:06] updateProductById – Status of product ID=2353 updated to new = 0, popular = 1.
+[2024-03-22 11:09:20] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 11:09:20] updateProductById – Status of product ID=2353 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1723 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1724 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1726 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1727 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1732 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1733 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1734 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1738 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1739 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1740 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1741 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1742 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1743 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1745 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1746 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1747 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1748 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1749 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1750 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=1751 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2342 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2335 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2336 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2337 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2353 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2354 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2340 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2867 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2358 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2359 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2360 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2361 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2362 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2863 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=2866 updated to new = 0, popular = 1.
+[2024-03-22 11:14:10] updateProductsByVendor – Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-22 11:15:45] Menuindex of product ID=3909 updated to -9999999.
+[2024-03-22 11:15:45] updateProductById – Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-22 11:24:38] Menuindex of product ID=3909 updated to -99999.
+[2024-03-22 11:24:38] updateProductById – Status of product ID=3909 updated to new = 0, popular = 1.
+[2024-03-22 11:47:56] Menuindex of product ID=3909 updated to -99999.
+[2024-03-22 11:47:56] updateProductById – Status of product ID=3909 updated to new = 0, popular = 0.
+[2024-03-22 11:51:21] Menuindex of product ID=3909 updated to -99999.
+[2024-03-22 11:51:21] updateProductById – Status of product ID=3909 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1723 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1724 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1726 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1727 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1732 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1733 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1734 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1738 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1739 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1740 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1741 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1742 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1743 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1745 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1746 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1747 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1748 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1749 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1750 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=1751 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2342 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2335 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2336 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2337 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2353 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2354 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2340 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2867 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2358 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2359 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2360 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2361 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2362 updated to new = 1, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2863 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=2866 updated to new = 0, popular = 0.
+[2024-03-22 12:09:36] updateAllProducts – Status of product ID=3909 updated to new = 0, popular = 0.
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1723 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1724 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1726 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1727 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1732 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1733 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1734 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1738 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1739 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1740 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1741 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1742 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1743 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1745 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1746 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1747 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1748 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1749 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1750 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=1751 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2342 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2335 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2336 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2337 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2353 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2354 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2340 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2867 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2358 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2359 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2360 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2361 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2362 updated to new = 1, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2863 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=2866 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:23] updateAllProducts – Status of product ID=3909 updated to new = 0, popular = 0. <br>
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1723 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1724 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1726 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1727 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1732 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1733 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1734 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1738 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1739 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1740 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1741 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1742 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1743 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1745 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1746 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1747 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1748 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1749 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1750 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=1751 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2342 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2335 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2336 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2337 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2353 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2354 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2340 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2867 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2358 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2359 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2360 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2361 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2362 updated to new = 1, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2863 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=2866 updated to new = 0, popular = 0.
+
+[2024-03-22 12:10:48] updateAllProducts – Status of product ID=3909 updated to new = 0, popular = 0.
+
+[2024-03-22 12:21:04] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 12:21:04] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:23:13] Menuindex of product ID=2353 updated to -99999.
+[2024-03-22 12:23:13] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0. 
+
+[2024-03-22 12:23:43] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 12:23:43] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:24:41] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 12:24:41] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:30:16] Menuindex of product ID=2353 updated to -1.
+[2024-03-22 12:30:16] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0. 
+
+[2024-03-22 12:30:55] Menuindex of product ID=2353 updated to 0.
+[2024-03-22 12:30:55] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:31:45] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 12:31:45] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:32:13] Menuindex of product ID=2353 updated to 0.
+[2024-03-22 12:32:13] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:32:52] Menuindex of product ID=2353 updated to 1.
+[2024-03-22 12:32:52] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:33:16] Menuindex of product ID=2353 updated to 1.
+[2024-03-22 12:33:16] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0. 
+
+[2024-03-22 12:37:11] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 12:37:11] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:41:57] Menuindex of product ID=2353 updated to -9999.
+[2024-03-22 12:41:57] updateProductById – Status of product ID=2353 updated to new = 1, popular = 0. 
+
+[2024-03-22 12:42:27] Menuindex of product ID=2353 updated to -9999999.
+[2024-03-22 12:42:27] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:42:47] Menuindex of product ID=2353 updated to -99999.
+[2024-03-22 12:42:47] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:44:10] Menuindex of product ID=2353 updated to -9999.
+[2024-03-22 12:44:10] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0. 
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1723 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1724 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1726 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1727 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1732 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1733 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1734 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1738 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1739 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1740 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1741 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1742 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1743 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1745 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1746 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1747 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1748 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1749 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1750 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=1751 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2342 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2335 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2336 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2337 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2353 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2354 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2340 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2867 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2358 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2359 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2360 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2361 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2362 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2863 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=2866 updated to new = 0, popular = 0.
+
+[2024-03-22 12:46:59] updateAllProducts – Status of product ID=3909 updated to new = 0, popular = 0.
+
+[2024-03-22 12:58:44] updateProductById – Menuindex of product ID  updated to -99999 successfully!
+[2024-03-22 12:58:44] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0.
+[2024-03-22 13:32:24] updateProductById – Menuindex of product ID  updated to -99999 successfully!
+[2024-03-22 13:32:24] updateProductById – Status of product ID=2353 updated to new = 0, popular = 0.
