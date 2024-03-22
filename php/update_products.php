@@ -52,8 +52,8 @@ function updateProductById(modX $modx, $productId) {
 
     // Запрос для получения данных о товаре
     $productQuery = "SELECT sc.id, sc.createdon, mp.vendor, mp.new
-                     FROM swimstore_site_content sc
-                     JOIN swimstore_ms2_products mp ON sc.id = mp.id
+                     FROM modx_site_content sc
+                     JOIN modx_ms2_products mp ON sc.id = mp.id
                      WHERE sc.id = :productId";
 
     $stmt = $modx->prepare($productQuery);
@@ -73,33 +73,16 @@ function updateProductById(modX $modx, $productId) {
         
         // Массив соответствий vendor и menuindex
         $vendorMenuindexMap = [
-            1 => [-99999, -9999999], // vendor 1 - TYR
-            2 => [-99999, -9999999], // vendor 2 - Arena
-            3 => [-99999, -9999999], // vendor 3 - Finis
-            4 => [-99999, -9999999], // vendor 4 - Speedo
-            5 => [-99999, -9999999], // vendor 5 - Diapolo
-            6 => [-99999, -9999999], // vendor 6 - MP
-            7 => [-99999, -9999999], //vendor 7 - aquasphere
-            8 => [-99999, -9999999], // vendor 8 - TURBO
-            9 => [-99999, -9999999], // vendor 9 - stretchcordz
-            10 => [-99999, -9999999], // vendor 10 - phelps
-            11 => [-99999, -9999999], // vendor 11 - HUUB
-            12 => [-99999, -9999999], // vendor 12 - AquaLung
-            13 => [-99999, -9999999], // vendor 13 - SwimStore
-            14 => [-99999, -9999999], // vendor 14 - Fruit
-            15 => [-99999, -9999999], // vendor 15 - lane gainer
-            16 => [-99999, -9999999], // vendor 16 - mizuno
-            17 => [-99999, -9999999], // vendor 17 - Swell
-            18 => [-99999, -9999999], // vendor 18 - cressi
-            19 => [-99999, -9999999], // vendor 19 - Shym
+            1 => [-99999, -9999999], 
+            
         ];
         
         // Выбор соответствующего menuindex на основе vendor и newStatus
         $menuindexUpdate = isset($vendorMenuindexMap[$vendor][$newStatus]) ? $vendorMenuindexMap[$vendor][$newStatus] : null;
 
-        // Обновление menuindex в swimstore_site_content
+        // Обновление menuindex в modx_site_content
         if ($menuindexUpdate !== null) {
-            $updateMenuindexQuery = "UPDATE swimstore_site_content SET menuindex = {$menuindexUpdate} WHERE id = {$productId}";
+            $updateMenuindexQuery = "UPDATE modx_site_content SET menuindex = {$menuindexUpdate} WHERE id = {$productId}";
             $modx->query($updateMenuindexQuery);
             $menuindexMessage = "updateProductById – Menuindex of product ID {$productID} updated to {$menuindexUpdate} successfully!";
         }
@@ -115,7 +98,7 @@ function updateProductById(modX $modx, $productId) {
           $popularStatus = 0;
         } 
         
-        $updateStatusQuery = "UPDATE swimstore_ms2_products
+        $updateStatusQuery = "UPDATE modx_ms2_products
                               SET new = :newStatus, popular = :popularStatus
                               WHERE id = :productId";
         $updateStatusStmt = $modx->prepare($updateStatusQuery);
@@ -146,8 +129,8 @@ function updateAllProducts(modX $modx) {
 
     // Запрос для получения данных о всех товарах
     $productQuery = "SELECT sc.id, sc.createdon, mp.vendor, mp.new
-                     FROM swimstore_site_content sc
-                     JOIN swimstore_ms2_products mp ON sc.id = mp.id";
+                     FROM modx_site_content sc
+                     JOIN modx_ms2_products mp ON sc.id = mp.id";
 
     $stmt = $modx->prepare($productQuery);
     $stmt->execute();
@@ -164,35 +147,12 @@ function updateAllProducts(modX $modx) {
         
         // Массив соответствий vendor и menuindex
         $vendorMenuindexMap = [
-            1 => [-99999, -9999999], // vendor 1 - TYR
-            2 => [-99999, -9999999], // vendor 2 - Arena
-            3 => [-99999, -9999999], // vendor 3 - Finis
-            4 => [-99999, -9999999], // vendor 4 - Speedo
-            5 => [-99999, -9999999], // vendor 5 - Diapolo
-            6 => [-99999, -9999999], // vendor 6 - MP
-            7 => [-99999, -9999999], //vendor 7 - aquasphere
-            8 => [-99999, -9999999], // vendor 8 - TURBO
-            9 => [-99999, -9999999], // vendor 9 - stretchcordz
-            10 => [-99999, -9999999], // vendor 10 - phelps
-            11 => [-99999, -9999999], // vendor 11 - HUUB
-            12 => [-99999, -9999999], // vendor 12 - AquaLung
-            13 => [-99999, -9999999], // vendor 13 - SwimStore
-            14 => [-99999, -9999999], // vendor 14 - Fruit
-            15 => [-99999, -9999999], // vendor 15 - lane gainer
-            16 => [-99999, -9999999], // vendor 16 - mizuno
-            17 => [-99999, -9999999], // vendor 17 - Swell
-            18 => [-99999, -9999999], // vendor 18 - cressi
-            19 => [-99999, -9999999], // vendor 19 - Shym
+            1 => [-99999, -9999999],
+            
         ];
         
         // Выбор соответствующего menuindex на основе vendor и newStatus
         $menuindexUpdate = isset($vendorMenuindexMap[$vendor][$newStatus]) ? $vendorMenuindexMap[$vendor][$newStatus] : null;
-        
-        // if ($menuindexUpdate !== null) {
-        //     $updateMenuindexQuery = "UPDATE swimstore_site_content SET menuindex = {$menuindexUpdate} WHERE id = {$productId}";
-        //     $modx->query($updateMenuindexQuery);
-        //     $menuindexMessage = "updateProductById – Menuindex of product ID {$productID} updated to {$menuindexUpdate} successfully!";
-        // }
         
         $menuindexMessage = "updateAllProducts – Menuindex of product ID {$productID} updated to {$menuindexUpdate} successfully!";
         
@@ -207,7 +167,7 @@ function updateAllProducts(modX $modx) {
           $popularStatus = 0;
         } 
         
-        $updateStatusQuery = "UPDATE swimstore_ms2_products
+        $updateStatusQuery = "UPDATE modx_ms2_products
                               SET new = :newStatus, popular = :popularStatus
                               WHERE id = :productId";
         $updateStatusStmt = $modx->prepare($updateStatusQuery);
@@ -237,7 +197,7 @@ function updateAllProducts(modX $modx) {
 function clearPopularStatus(modX $modx) {
     global $logFile;
     // Очистка статуса popular для всех товаров
-    $modx->exec("UPDATE swimstore_ms2_products SET popular = 0");
+    $modx->exec("UPDATE modx_ms2_products SET popular = 0");
     // Логирование события
     logEvent("clearPopularStatus – Cleared popular status for all products.");
 }
@@ -248,8 +208,8 @@ function updateProductsByVendor(modx $modx, $vendorId) {
   $dateTwoMonthsAgo = date('Y-m-d H:i:s', strtotime('-2 months'));
   
   $productQuery = "SELECT sc.id, sc.createdon, mp.vendor, mp.new
-                   FROM swimstore_site_content sc
-                   JOIN swimstore_ms2_products mp ON sc.id = mp.id
+                   FROM modx_site_content sc
+                   JOIN modx_ms2_products mp ON sc.id = mp.id
                    WHERE mp.vendor = :vendorId";
                    
   $stmt = $modx->prepare($productQuery);
@@ -274,7 +234,7 @@ function updateProductsByVendor(modx $modx, $vendorId) {
         $popularStatus = 0;
     } 
         
-    $updateStatusQuery = "UPDATE swimstore_ms2_products
+    $updateStatusQuery = "UPDATE modx_ms2_products
                           SET new = :newStatus, popular = :popularStatus
                           WHERE id = :productId";
     $updateStatusStmt = $modx->prepare($updateStatusQuery);
@@ -300,7 +260,7 @@ function updateProductsByVendor(modx $modx, $vendorId) {
 function clearNewStatus(modX $modx) {
     global $logFile;
     // Очистка статуса popular для всех товаров
-    $modx->exec("UPDATE swimstore_ms2_products SET new = 0");
+    $modx->exec("UPDATE modx_ms2_products SET new = 0");
     // Логирование события
     logEvent("clearNewStatus – Cleared new status for all products.");
 }
